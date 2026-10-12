@@ -1,0 +1,29 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment secrets
+.env
+
+# Local datasets
+data/raw/*
+data/processed/*
+
+# Keep placeholders in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated reports
+reports/*.html
+reports/*.pdf
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
