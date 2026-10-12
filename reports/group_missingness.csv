@@ -1,0 +1,5 @@
+attribute,group,feature,missing_count,missing_percent
+sex,Group_A,sex,0,0.0
+sex,Group_A,income,0,0.0
+sex,Group_B,sex,0,0.0
+sex,Group_B,income,0,0.0

@@ -1,0 +1,6 @@
+positive_labels_changed,group_a_rate,group_b_rate,dpd,dir,flagged
+0,0.5,0.5,0.0,1.0,False
+10,0.5,0.4,0.09999999999999998,0.8,False
+20,0.5,0.3,0.2,0.6,True
+30,0.5,0.2,0.3,0.4,True
+40,0.5,0.1,0.4,0.2,True

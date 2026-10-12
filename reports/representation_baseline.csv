@@ -1,0 +1,8 @@
+attribute,group,count,representation_share,small_group_flag
+sex,Male,32650,0.6684820441423365,False
+sex,Female,16192,0.33151795585766347,False
+race,White,41762,0.855042791040498,False
+race,Black,4685,0.09592154293435977,False
+race,Asian-Pac-Islander,1519,0.031100282543712377,True
+race,Amer-Indian-Eskimo,470,0.009622865566520618,True
+race,Other,406,0.0083125179149093,True

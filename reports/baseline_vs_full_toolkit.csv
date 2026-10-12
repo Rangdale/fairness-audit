@@ -1,0 +1,8 @@
+attribute,group,count,representation_share,small_group_flag,positive_rate,dpd,dir,potential_disparity_flag,severity,extra_signals_from_full_toolkit
+sex,Male,32650,0.6684820441423365,False,0.3037672281776417,0.1945157459642029,0.3596552625800337,True,High Priority,"Positive outcome rate, DPD, DIR, disparity flag, severity"
+sex,Female,16192,0.3315179558576634,False,0.1092514822134387,0.1945157459642029,0.3596552625800337,True,High Priority,"Positive outcome rate, DPD, DIR, disparity flag, severity"
+race,White,41762,0.855042791040498,False,0.2539868780230832,0.1522348129368425,0.4346095822712376,True,High Priority,"Positive outcome rate, DPD, DIR, disparity flag, severity"
+race,Black,4685,0.0959215429343597,False,0.1208110992529349,0.1522348129368425,0.4346095822712376,True,High Priority,"Positive outcome rate, DPD, DIR, disparity flag, severity"
+race,Asian-Pac-Islander,1519,0.0311002825437123,True,0.2692560895325872,0.1522348129368425,0.4346095822712376,True,Review - Small Group,"Positive outcome rate, DPD, DIR, disparity flag, severity"
+race,Amer-Indian-Eskimo,470,0.0096228655665206,True,0.1170212765957446,0.1522348129368425,0.4346095822712376,True,Review - Small Group,"Positive outcome rate, DPD, DIR, disparity flag, severity"
+race,Other,406,0.0083125179149093,True,0.1231527093596059,0.1522348129368425,0.4346095822712376,True,Review - Small Group,"Positive outcome rate, DPD, DIR, disparity flag, severity"
