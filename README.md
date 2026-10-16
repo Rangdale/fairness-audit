@@ -100,6 +100,7 @@ Some directories may be added as the project develops.
 - Missingness differences require further investigation.
 - Dataset-level metrics do not establish the fairness of a trained model.
 - Proxy detection, uncertainty estimation, synthetic-bias experiments, and model-level fairness evaluation remain planned work.
+- Fairness metrics should be interpreted in the context of dataset characteristics and domain-specific requirements.
 
 ## Running the Project
 
